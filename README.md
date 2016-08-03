@@ -16,3 +16,8 @@ Application developed as project in course at Linköpings University in Norrköp
 [Paul Debevec: Portable FloatMap File Format](http://www.pauldebevec.com/Research/HDR/PFM/)
 
 [open source GUI app. for HDR imaging](http://qtpfsgui.sourceforge.net/)
+
+
+## License
+
+MIT @ https://tolu.mit-license.org/
